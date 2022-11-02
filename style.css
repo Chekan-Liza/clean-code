@@ -16,7 +16,7 @@
   width: 100%;
 }
 
-.aaa .more_inf {
+.aaa .more-inf {
   font-family: fantasy, cursive;
 }
     
@@ -166,11 +166,11 @@ button{
   display: none;
 }
     
-.editMode .input-task {
+.edit-mode .input-task {
   display: inline-block;
   width: 224px;
 }
     
-.editMode label {
+.edit-mode label {
   display: none;
-}
+} 
