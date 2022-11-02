@@ -28,7 +28,7 @@
 
 }
 
-.centered-main-page-element {
+.app-tasks {
   display: block;
   width: 500px;
   margin: 0 auto 0;
@@ -40,7 +40,7 @@
   flex-grow: 1;
 }
 
-.task-row-wrapper {
+.add-task {
   display: flex;
 }
 
