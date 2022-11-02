@@ -5,7 +5,7 @@
   font-family: Lato, sans-serif;
 }
 
-.aaa {
+.preview-matrix {
   width: 500px;
   margin: 0 auto;
   display: block;
@@ -16,13 +16,13 @@
   width: 100%;
 }
 
-.aaa .more-inf {
+.preview-matrix .more-inf {
   font-family: fantasy, cursive;
 }
     
 @media (max-width: 768px) {
 
-  .aaa {
+  .preview-matrix {
     text-align: center;
   }
 
@@ -173,4 +173,4 @@ button{
     
 .edit-mode label {
   display: none;
-} 
+}
